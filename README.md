@@ -44,6 +44,7 @@ RecipeShare is a web application built with Spring Boot that allows users to cre
    ```
    The application will start on [http://localhost:8081](http://localhost:8081).
 
+
 ## Usage
 
 - Access the home page at [http://localhost:8081](http://localhost:8081).
